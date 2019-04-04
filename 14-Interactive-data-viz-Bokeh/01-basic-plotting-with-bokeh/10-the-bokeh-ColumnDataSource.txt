@@ -1,0 +1,9 @@
+The Bokeh ColumnDataSource
+
+The ColumnDataSource is a table-like data object that maps string column names to sequences (columns) of data. It is the central and most common data structure in Bokeh.
+
+Which of the following statements about ColumnDataSource objects is true?
+
+Answer the question
+
+    All columns in a ColumnDataSource must have the same length.
