@@ -1,0 +1,11 @@
+Adding callbacks to sliders
+
+Callbacks are functions that a user can define, like def callback(attr, old, new), that can be called automatically when some property of a Bokeh object (e.g., the value of a Slider) changes.
+
+How are callbacks added for the value property of Slider objects?
+
+() By passing a callback function to the callback method.
+(x) By passing a callback function to the on_change method.
+() By assigning the callback function to the Slider.update property.
+
+Correct. A callback is added by calling myslider.on_change('value', callback).

@@ -1,0 +1,11 @@
+Understanding Bokeh apps
+
+The main purpose of the Bokeh server is to synchronize python objects with web applications in a browser, so that rich, interactive data applications can be connected to powerful PyData libraries such as NumPy, SciPy, Pandas, and scikit-learn.
+
+What sort of properties can the Bokeh server automatically keep in sync?
+
+() Only data source objects.
+
+() Only glyph properties.
+
+(x) Any property of any Bokeh object.
