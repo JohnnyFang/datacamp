@@ -1,0 +1,8 @@
+Investigating the layout API
+
+Bokeh layouts allow for positioning items visually in the page presented to the user. What kinds of objects can be put into Bokeh layouts?
+
+() plots
+() Widgets
+() Other layouts
+(x) All of the above
