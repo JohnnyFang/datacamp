@@ -1,0 +1,17 @@
+Advantages of graphical EDA
+
+Which of the following is not true of graphical EDA?
+
+Answer the question
+
+Possible Answers
+
+    ( )It often involves converting tabular data into graphical form.
+
+    ( )If done well, graphical representations can allow for more rapid interpretation of data.
+
+    (x)A nice looking plot is always the end goal of a statistical analysis.
+
+    ( )There is no excuse for neglecting to do graphical EDA.
+
+// Correct! While a good, informative plot can sometimes be the end point of an analysis, it is more like a beginning: it helps guide you in the quantitative statistical analyses that come next.
