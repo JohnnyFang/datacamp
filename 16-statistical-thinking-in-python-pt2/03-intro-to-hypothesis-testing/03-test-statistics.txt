@@ -1,0 +1,11 @@
+Test statistics
+
+When performing hypothesis tests, your choice of test statistic should be:
+
+Possible Answers
+
+()    something well-known, like the mean or median.
+
+()    be a parameter that can be estimated.
+
+(x)    be pertinent to the question you are seeking to answer in your hypothesis test.
